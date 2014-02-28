@@ -1,5 +1,6 @@
 #February 27 2014
 This was our first code night in a while, we ate samosas and ordered pizza :)
+
 1. Demoed the results of the two teams at McHacks
   * [NESP](http://mchacks.challengepost.com/submissions/21221-nesp)
   * [One Small Leap](http://mchacks.challengepost.com/submissions/21221-nesp)
